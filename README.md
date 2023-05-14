@@ -1,7 +1,7 @@
 <h1>Jogo da Velha</h1>
 
 <p align="center">
-  <img alt="mockup" src="#" width="100%">
+  <img alt="mockup" src="./assets/mockupMacbook.png" width="100%">
 </p>
 
 <h2 align="center">

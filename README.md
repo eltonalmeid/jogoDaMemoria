@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-  Acesse o Jogo da Velha Clicando <a target="_blank" href="https://eltonalmeid.github.io/jogoDaMemoria/">AQUI</a>
+  Acesse o Jogo da Memória Clicando <a target="_blank" href="https://eltonalmeid.github.io/jogoDaMemoria/">AQUI</a>
 </h2>
 
 <div align="center">

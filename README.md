@@ -1,4 +1,4 @@
-<h1>Jogo da Velha</h1>
+<h1>Jogo da Memória</h1>
 
 <p align="center">
   <img alt="mockup" src="./assets/mockupMacbook.png" width="100%">
